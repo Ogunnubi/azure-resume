@@ -25,5 +25,6 @@ jobs:
             az storage blob upload-batch \
               --source . \
               --destination '$web' \
-              --account-name azureresume1234userazureresumeogunnubi \
+              --account-name azureresumeogunnubi \
               --overwrite
+
